@@ -1,2 +1,1 @@
-# red-efectiva-backend
-Test para red efectiva (backend)
+# This is a web app for the "Red Efectiva" test (backend)
